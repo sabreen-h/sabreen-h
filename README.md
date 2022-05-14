@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabreen-h" alt="sabreen-h" /></a> </p>
 
-- 🔭 I’m currently software engineering at student **KFS university**
+- 🔭 I’m currently software engineering student at **KFS university**
 
 - 🌱 I’m currently learning **Angular.JS, Ionic, Data science**
 
