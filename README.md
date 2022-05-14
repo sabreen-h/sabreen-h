@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabreen</h1>
-<h3 align="center">A passionate frontend developer from Egypt and passionate about data analysis</h3>
+<h3 align="center">I am  frontend developer from Egypt and passionate about data analysis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabreen-h&label=Profile%20views&color=0e75b6&style=flat" alt="sabreen-h" /> </p>
 
