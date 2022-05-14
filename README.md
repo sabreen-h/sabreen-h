@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **angular , python**
 
-- 📫 How to reach me **sabreenhassan31@gmail.com,www.linkedin.com/in/sabreen-hassan-8063921a9**
+- 📫 How to reach me **sabreenhassan31@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wApvT73J3YhqUz117DxfxfZMDro-roCe/view?usp=sharing](https://drive.google.com/file/d/1wApvT73J3YhqUz117DxfxfZMDro-roCe/view?usp=sharing)
 
