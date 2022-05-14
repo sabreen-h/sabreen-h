@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **sabreenhassan31@gmail.com**
 
-- 📄 Know about my experiences <a herf="https://drive.google.com/file/d/1wApvT73J3YhqUz117DxfxfZMDro-roCe/view?usp=sharing"> My Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1wApvT73J3YhqUz117DxfxfZMDro-roCe/view?usp=sharing"> My Resume </a>
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sabreen-hassan-8063921a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sabreen-hassan-8063921a9/" height="30" width="40" /></a>
